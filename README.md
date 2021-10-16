@@ -18,6 +18,14 @@ Search ‘cyzbsyy’ in WeChat official account. That's my first *Public platfor
 # 会上就上，不会上拉倒
 留着微信不仅仅是为了攒用户数量，更重要的是照顾一下不会用github的人，按道理我附近的工科生这么多，应该很多人都会吧，不会用也算了！
 
+# 用来汇总微信公众号的文档（2021年10月16日及以后）
+
+
+
+
+# 2021年10月16日以前的文档择优汇总
+
+
 
 
 <!--
