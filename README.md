@@ -1,16 +1,20 @@
-### Hi this is Evand! 👋
+### Hi, this is Evand! 👋
 
-- 🔭 I’m currently studying on Chengdu University of Technology Information
-- 🌱 I’m currently learning ... (It's secret😄)
-- 👯 I’m living in Cheng Du now.
-- 📫 How to reach me？
+- 🔭
+I’m currently studying on Chengdu University of Technology Information, Chengdu, China.
+Now, I am a graduate student, My research interests lie at estimating flight data. If you think my codes are benefit to you, a star is enough.
 
-Search ‘cyzbsyy’ in WeChat official account. That's my first *Public platform*.
+- CSDN account
 
-# 其实我不仅仅只有微信公众号
-公众号受制于微信，还有可能被乱插广告，弄了半天我写了文章给腾讯拿去赚钱了？干脆直接用github吧！
+<a href="https://blog.csdn.net/callmeup" target="_blank">callmeup</a> 
 
-以后及时性的东西用公众号，汇总类的放在这里，当然，可能会为了给微信涨粉而先发微信。
+- WeChat official account
+
+Search ‘cyzbsyy’ in WeChat official account. That's my first *Public platform*.Or scan this QR code:
+  
+  <img  src="https://github.com/evandworld/evandworld/blob/main/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E7%99%BD%E8%89%B2%E7%89%88.png" width="600" title="Say HI">
+
+- more account is coming!
 
 # 能上就上，不能上拉倒
 我也不知道github在国内能不能正常登录，能就能，不能就算了。
