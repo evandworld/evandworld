@@ -4,17 +4,31 @@
 I’m currently studying on Chengdu University of Technology Information, Chengdu, China.
 Now, I am a graduate student, My research interests lie at estimating flight data. If you think my codes are benefit to you, a star is enough.
 
-- CSDN account
 
-<a href="https://blog.csdn.net/callmeup" target="_blank">callmeup</a> 
 
-- WeChat official account
+Working on:
 
-Search ‘cyzbsyy’ in WeChat official account. That's my first *Public platform*.Or scan this QR code:
+- [flush air data sensing system](https://github.com/FADS)
+- [wifi location](https://github.com/wifi-location/)
+
+# Know more about me?
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E4%BF%9D%E7%9D%BF-%E8%92%8B-966abb223/) 
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/evand70633725)  
+
+WeChat official account: Search ‘cyzbsyy’ in WeChat official account. That's my first *Public platform*.
+Click this link is avaliable：(only by cellphones)
+ 
+ [![Wechat](https://img.shields.io/badge/-phodal02-green?style=flat&logo=Wechat&logoColor=white)](http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzI3NDYyNDY4OQ==#wechat_webview_type=1&wechat_redirect)
+or scan the QR code:
   
   <img  src="https://github.com/evandworld/evandworld/blob/main/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E7%99%BD%E8%89%B2%E7%89%88.png" width="600" title="Say HI">
 
-- more account is coming!
+
+CSDN account: <a href="https://blog.csdn.net/callmeup" target="_blank">callmeup</a> 
+
+
+more account is coming!
 
 # 能上就上，不能上拉倒
 我也不知道github在国内能不能正常登录，能就能，不能就算了。
