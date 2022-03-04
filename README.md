@@ -30,11 +30,11 @@ CSDN account: <a href="https://blog.csdn.net/callmeup" target="_blank">callmeup<
 
 more account is coming!
 
-# 能上就上，不能上拉倒
-我也不知道github在国内能不能正常登录，能就能，不能就算了。
+# 一个过渡
+也不知道github在国内能不能正常登录，以后有时间再弄一个国内的板块。
 
-# 会上就上，不会上拉倒
-留着微信不仅仅是为了攒用户数量，更重要的是照顾一下不会用github的人，按道理我附近的工科生这么多，应该很多人都会吧，不会用也算了！
+# 微信公众号存在的意义
+留着微信不仅仅是为了攒用户数量，更重要的是照顾一下不会用github的人。
 
 # 用来汇总微信公众号的文档（2021年10月16日及以后）
 
@@ -42,8 +42,9 @@ more account is coming!
 
 
 # 2021年10月16日以前的文档择优汇总
+[十一错峰游，德阳游记](https://mp.weixin.qq.com/s/bMFoQEmo8YSF57VJieDcig)
 
-
+[泸沽湖四日游记录](https://mp.weixin.qq.com/s/XOpd05QqJHVRZnUhP54hpg)
 
 
 <!--
