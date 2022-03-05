@@ -1,20 +1,26 @@
 ### Hi, this is Evand! 👋
 
-- 🔭
-I’m currently studying on Chengdu University of Technology Information, Chengdu, China.
-Now, I am a graduate student, My research interests lie at estimating flight data. If you think my codes are benefit to you, a star is enough.
+🔭I am currently a graduate student at the University of Information Technology in Chengdu, China, and my research interests lie in indoor positioning and estimation of flight data especially with Kalman filter. If you think my codes are benefit to you, a star is enough.
 
+I am also an open source enthusiast and maintainer. I learned a lot from the open-source community andI love how collaboration and knowledge sharing happened through open-source. So if you have any questions, please contact me in the following ways.
 
+Linkedin: <a href="https://www.linkedin.com/in/%E4%BF%9D%E7%9D%BF-%E8%92%8B-966abb223" target="_blank">E. Jiang</a> 
+ 
+Twitter: <a href="https://twitter.com/evand70633725" target="_blank">evand70633725</a> 
+
+qq_email:850051568@qq.com
+
+CSDN: <a href="https://blog.csdn.net/callmeup" target="_blank">callmeup</a> 
+
+Douban:<a href="https://www.douban.com/people/170811349">evand</a> (Here is my pursuit of literature and art :-)
 
 Working on:
 
 - [flush air data sensing system](https://github.com/evandworld/FADSpublic)
-- [wifi location](https://github.com/wifi-location/)
+- [wifi location](https://github.com/evandworld/wifi-location/)
 
-# Know more about me?
+## Know more about me?
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E4%BF%9D%E7%9D%BF-%E8%92%8B-966abb223/) 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/evand70633725)  
 
 WeChat official account: Search ‘cyzbsyy’ in WeChat official account. That's my first *Public platform*.
 Click this link is avaliable：(only by cellphones)
@@ -30,18 +36,18 @@ CSDN account: <a href="https://blog.csdn.net/callmeup" target="_blank">callmeup<
 
 more account is coming!
 
-# 一个过渡
+## 一个过渡
 也不知道github在国内能不能正常登录，以后有时间再弄一个国内的板块。
 
-# 微信公众号存在的意义
+## 微信公众号存在的意义
 留着微信不仅仅是为了攒用户数量，更重要的是照顾一下不会用github的人。
 
-# 用来汇总微信公众号的文档（2021年10月16日及以后）
+## 用来汇总微信公众号的文档（2021年10月16日及以后）
 
 
 
 
-# 2021年10月16日以前的文档择优汇总
+## 2021年10月16日以前的文档择优汇总
 [十一错峰游，德阳游记](https://mp.weixin.qq.com/s/bMFoQEmo8YSF57VJieDcig)
 
 [泸沽湖四日游记录](https://mp.weixin.qq.com/s/XOpd05QqJHVRZnUhP54hpg)
