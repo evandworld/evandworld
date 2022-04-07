@@ -24,11 +24,8 @@ Working on:
 
 WeChat official account: Search ‘cyzbsyy’ in WeChat official account. That's my first *Public platform*.
 Click this <a href="http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzI3NDYyNDY4OQ==#wechat_webview_type=1&wechat_redirectp" target="_blank">here</a>  is avaliable. (only by cellphones) or scan the QR code:
-
-  <img  src="https://github.com/evandworld/evandworld/blob/main/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E7%99%BD%E8%89%B2%E7%89%88.png" width="600" title="Say HI">
-
-
-
+<a href="https://sm.ms/image/BMy7Gp4eqwaHdjn" target="_blank"><img src="https://s2.loli.net/2022/04/07/BMy7Gp4eqwaHdjn.jpg" alt="QQ截图20220407182107.jpg"></a>
+  <img  src="(https://s2.loli.net/2022/04/07/BMy7Gp4eqwaHdjn.jpg)">
 more account is coming!
 
 
