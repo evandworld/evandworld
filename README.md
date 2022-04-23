@@ -6,7 +6,7 @@ I am also an open source enthusiast and maintainer. I learned a lot from the ope
 
 👯CSDN: <a href="https://blog.csdn.net/callmeup" target="_blank">callmeup</a> 
 
-📖Douban:<a href="https://www.douban.com/people/170811349">evand</a> (Here is my pursuit of literature and art :-)
+📖Douban:<a href="https://www.douban.com/people/170811349">evand</a> My pursuit of literature and art :-)
 
 🌱 Linkedin: <a href="https://www.linkedin.com/in/%E4%BF%9D%E7%9D%BF-%E8%92%8B-966abb223" target="_blank">E. Jiang</a> 
  
