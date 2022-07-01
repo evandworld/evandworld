@@ -4,15 +4,15 @@
 
 I am also an open source enthusiast and maintainer. I learned a lot from the open-source community andI love how collaboration and knowledge sharing happened through open-source. So if you have any questions, please contact me in the following ways.
 
-👯CSDN: <a href="https://blog.csdn.net/callmeup" target="_blank">callmeup</a> 
+👯*CSDN*: <a href="https://blog.csdn.net/callmeup" target="_blank">callmeup</a> 
 
-📖Douban:<a href="https://www.douban.com/people/170811349">evand</a> My pursuit of literature and art :-)
+📖*Douban*:<a href="https://www.douban.com/people/170811349">evand</a> My pursuit of literature and art :-)
 
-🌱 Linkedin: <a href="https://www.linkedin.com/in/%E4%BF%9D%E7%9D%BF-%E8%92%8B-966abb223" target="_blank">E. Jiang</a> 
+🌱 *Linkedin*: <a href="https://www.linkedin.com/in/%E4%BF%9D%E7%9D%BF-%E8%92%8B-966abb223" target="_blank">E. Jiang</a> 
  
-💬 Twitter: <a href="https://twitter.com/evand70633725" target="_blank">evand70633725</a> 
+💬 *Twitter*: <a href="https://twitter.com/evand70633725" target="_blank">evand70633725</a> 
 
-📫 qq_email:850051568@qq.com
+📫 *E-mail*:jiangbaorui@foxmail.com
 
 Working on:
 
@@ -30,7 +30,7 @@ more account is coming!
 
 
 
-## 微信公众号存在的意义
+## 微信公众号更多的是日常记录
 github以学术为主，微信公众号不仅在国内使用方便，而且也是写游记的专用地方。
 
 ## 微信公众号的部分文档
