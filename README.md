@@ -1,6 +1,6 @@
 ### Hi, this is Evand! 👋
 
-🔭I am currently a graduate student at Chengdu University of Information Technology, China, and my research interests lie in indoor positioning and estimation of flight data especially with Kalman filter. If you think my codes are benefit to you, a star is enough.
+🔭I am a graduated student at Chengdu University of Information Technology, China, and my research interests lie in indoor positioning and estimation of flight data especially with Kalman filter. If you think my codes are benefit to you, a star is enough.
 
 I am also an open source enthusiast and maintainer. I learned a lot from the open-source community andI love how collaboration and knowledge sharing happened through open-source. So if you have any questions, please contact me in the following ways.
 
