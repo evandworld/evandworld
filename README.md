@@ -1,6 +1,6 @@
 ### Hi, this is Evand! 👋
 
-🔭I am a graduated student at Chengdu University of Information Technology, China, and my research interests lie in indoor positioning and estimation of flight data especially with Kalman filter. If you think my codes are benefit to you, a star is enough.
+🔭I am a graduated student at Nanjing, China, and my research interests lie in cooperative navigation and estimation of flight data especially with Kalman filter. If you think my codes are benefit to you, a star is enough.
 
 I am also an open source enthusiast and maintainer. I learned a lot from the open-source community andI love how collaboration and knowledge sharing happened through open-source. So if you have any questions, please contact me in the following ways.
 
@@ -12,28 +12,18 @@ I am also an open source enthusiast and maintainer. I learned a lot from the ope
  
 💬 *Twitter*: <a href="https://twitter.com/evand70633725" target="_blank">evand70633725</a> 
 
-📫 *E-mail*:jiangbaorui@foxmail.com
+📫 *E-mail*:evandjiang@foxmail.com
 
 Working on:
 
 - [wifi location](https://github.com/evandworld/wifi-location/)
 - [flush air data sensing system](https://github.com/evandworld/FADSpublic)
-
+- [cooperative navigation](https://github.com/evandworld/distributedCNpublic)
 
 ## Know more about me?
 
-WeChat official account: Search ‘cyzbsyy’ in WeChat official account. That's my first *Public platform*.
-Click this <a href="http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzI3NDYyNDY4OQ==#wechat_webview_type=1&wechat_redirectp" target="_blank">here</a>  is avaliable. (only by cellphones) or scan the QR code:
-<a href="https://sm.ms/image/BMy7Gp4eqwaHdjn" target="_blank"><img src="https://s2.loli.net/2022/04/07/BMy7Gp4eqwaHdjn.jpg" alt="QQ截图20220407182107.jpg"></a>
-  <img  src="(https://s2.loli.net/2022/04/07/BMy7Gp4eqwaHdjn.jpg)">
-more account is coming!
 
-
-
-## 微信公众号更多的是日常记录
-github以学术为主，微信公众号不仅在国内使用方便，而且也是写游记的专用地方。
-
-## 微信公众号的部分文档
+微信公众号的部分文档
 
 [十一错峰游，德阳游记](https://mp.weixin.qq.com/s/bMFoQEmo8YSF57VJieDcig)
 
