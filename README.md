@@ -21,9 +21,14 @@ Working on:
 - [cooperative navigation](https://github.com/evandworld/distributedCNpublic)
 
 ## Know more about me?
-**B站工房链接**（销售部分MATLAB代码、自动发货、价格便宜）：[https://gf.bilibili.com/item/detail/1105303012](https://gf.bilibili.com/item/detail/1105303012) 
+**B站小店**（销售部分MATLAB代码、自动发货、价格便宜）：
+
+![image](https://github.com/evandworld/evandworld/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250317184747.png)
+
 
 **工作微信**：matlabfilter（销售我的所有matlab代码、承接代码定制、代做和帮调）：
+
+![image](https://github.com/evandworld/evandworld/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250317184820.png)
 
 
 **微信公众号**的部分文档
